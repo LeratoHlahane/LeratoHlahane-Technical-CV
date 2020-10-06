@@ -1,2 +1,2 @@
-# LeratoHlahane-Technical-CV
-My Technical CV
+# CV
+ My Technical CV
